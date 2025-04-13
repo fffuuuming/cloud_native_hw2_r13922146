@@ -1,1 +1,6 @@
-# cloud_native_hw2_r13922146
+# Cloud Native Application HW2
+A simple Github practice.
+- Branch
+- Issue
+- PR
+- Github Action
